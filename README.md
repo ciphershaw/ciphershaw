@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciphershaw a Software Engineer,
 - 👀 I’m interested in Web Development, Ethical Hacking and Application Security,
-- 🌱 I’m currently learning DevSecOps, latest Web Development techniques and technologies and also prapering for the Cybersecurity Certifications(OSCP, CCSP, CISA, CISM, CISSP),
+- 🌱 I’m currently learning DevSecOps, Latest Web Development techniques and technologies and also prapering for the Cybersecurity Certifications(OSCP, CCSP, CISA, CISM, CISSP),
 - 💞️ I’m looking to collaborate on Web Development Projects and Cybersecurity Projects,
 - 📫 How to reach me ? Please connect me on Linkedin [sharjeelahmedkhan](http://linkedin.com/in/iamsharjeelahmed/)
 
